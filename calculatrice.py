@@ -17,6 +17,8 @@ def racine_carree(a):
     if a<0:
         return "Erreur: nombre négatif"
     return math.sqrt(a)
+def modulo(a,b):
+    return a%b
 
 if __name__== "__main__":
     print("Addition : 5+3 = ",addition(5,3))
