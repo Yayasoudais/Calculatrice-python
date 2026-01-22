@@ -8,7 +8,8 @@ def division(a,b):
     if b== 0:
         return "Erreu: division par zéro"
     return a/b
-
+def puissance (a,b):
+    return a**b
 
 if __name__== "__main__":
     print("Addition : 5+3 = ",addition(5,3))
