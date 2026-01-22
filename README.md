@@ -1,2 +1,2 @@
-# Calculatrice version A
+# Calculatrice
 
